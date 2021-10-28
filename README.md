@@ -10,7 +10,7 @@
 <h3> 📁 &nbsp;Minhas Skills </h3>
 
 ![Java](https://img.shields.io/badge/Java-ff0000?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-00000F?style=for-the-badge&logo=Java&logoColor=red)
+![JavaScript](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=JavaScript&logoColor=red)
 ![Perl](https://img.shields.io/badge/Perl-ff14ff?style=for-the-badge&logo=Perl&logoColor=green)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yreinaldy&count_private=true&show_icons=true&theme=radical)
