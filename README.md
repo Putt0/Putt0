@@ -1,13 +1,24 @@
-<img src="https://cdn.discordapp.com/attachments/870741112992694385/890394986464555078/frontend-development-tools.png" width="350px" align="right">
+  <p align="center">
+ <a href="https://namemc.com/profile/yReinaldy_.1">
+		<img src="https://skillicons.dev/icons?i=java" />
+	</a>
+</p>
 
-<h3> 👔 &nbsp;Putt0: </h3>
-  
-- 💼 Enthusiast in:
-- ☕ Java
+<h4 align="center">
+<details>
+<summary></summary>
 
-<h3> 📁 &nbsp;My Skills </h3>
+```java
+import org.github.com.biography.Biography
 
-![Java](https://img.shields.io/badge/Java-ff0000?style=for-the-badge&logo=java&logoColor=white)
+public class AboutMe extends Biography {
+  String name = "Reinaldy Oliveira";
+  String nickname = "yReinaldy_";
+  Integer years = 18; 
+}
+```
+
+Oque é isso aqui em baixo?
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Putt0&count_private=true&show_icons=true&theme=radical)
 
