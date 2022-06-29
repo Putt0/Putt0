@@ -18,7 +18,7 @@ public class AboutMe extends Biography {
 }
 ```
 
-Oque é isso aqui em baixo?
+Look this
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Putt0&count_private=true&show_icons=true&theme=radical)
 
