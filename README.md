@@ -1,4 +1,4 @@
-<img width="auto" src="https://i.imgur.com/JdlFACa.png">
+<img width="auto" src="https://imgur.com/4IlcloE.png">
 
 ### Hi there! Reinaldy here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -14,7 +14,7 @@ I'm a Java developer :computer:
 ### Minhas atividade no Github
 ![putt0 github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Putt0&layout=compact&theme=radical)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Putt0&show_icons=true&hide_border=true)
+![Github stats](https://camo.githubusercontent.com/b642f363896ffad0155007032697802e30e0fd2509fdaf54f438e9cf9181ccce/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d507574743026636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7261646963616c)
 
 ## Follow me on social media
 
