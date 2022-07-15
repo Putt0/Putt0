@@ -1,26 +1,28 @@
-  <p align="center">
- <a href="https://namemc.com/profile/yReinaldy_.1">
-		<img src="https://skillicons.dev/icons?i=java" />
-		<img
-src="https://camo.githubusercontent.com/93d63383d29f505cb0a7dd379631b74d474017cdc3a2ead9b0c3753cac9ba642/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f63554147754c69456354427752666b4151712f67697068792e6769663f6369643d6563663035653437317235637a6f656e3377786975757270777539646377366b6e353866783674796f79633573753561267269643d67697068792e6769662663743d73" />
-	</a>
-</p>
+<img width="auto" src="https://i.imgur.com/JdlFACa.png">
 
-<h4 align="center">
-<details>
-<summary></summary>
+### Hi there! Reinaldy here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-```java
-import org.github.com.biography.Biography
+I am passionate about solving problems using programming.
+I'm a Java developer :computer:
 
-public class AboutMe extends Biography {
-  String name = "Reinaldy Oliveira";
-  String nickname = "yReinaldy_";
-  Integer years = 18; 
-}
-```
+❤ &nbsp; I am working as Java Developer at **@ZarpiumMC**
+<br/> :computer: &nbsp; my stack: Java
+<br/> 💬 &nbsp; about me: I like technologies, Minecraft and series.
+<br/> :email: &nbsp; Contact me: 
+[![Gmail Badge](https://img.shields.io/badge/-mcreinaldy4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mcreinaldy4@gmail.com)](mailto:mcreinaldy4@gmail.com)
 
-Look this
+### Minhas atividade no Github
+![putt0 github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Putt0&layout=compact&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Putt0&count_private=true&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Putt0&show_icons=true&hide_border=true)
 
+## Follow me on social media
+
+<div>
+<a href="https://github.com/Putt0">
+  <img align="left" alt="Reinaldy Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/reinaldy.xyz/">
+  <img align="left" alt="Reinaldy Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+</div>
