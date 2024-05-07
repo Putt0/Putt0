@@ -5,7 +5,7 @@
 
 # Habilidade ou Skills?
 
-<img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> | <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> | <img align="center" height="30" width="40" alt="html-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"> | <img align="center" height="30" width="40" alt="html-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> | <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> | <img align="center" height="30" width="40" alt="html-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"> | <img align="center" height="30" width="40" alt="html-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"> | <img align="center" height="30" width="40" alt="html-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 # Sistemas operacionais;
 
