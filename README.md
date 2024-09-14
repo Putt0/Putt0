@@ -14,6 +14,6 @@
 
 # Discord;
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/399988896827703296)](https://discord.com/users/399988896827703296)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/399988896827703296?theme=dark&bg=171717ecf&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=No%20activity%20here.)](https://discord.com/users/399988896827703296)
 
 ![Snake Animation](https://github.com/Putt0/Putt0/blob/output/github-contribution-grid-snake-dark.svg)
